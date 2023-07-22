@@ -1,0 +1,2 @@
+def am():
+  print("AM")
