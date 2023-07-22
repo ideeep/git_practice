@@ -1,1 +1,5 @@
-print("Deep Narayan")
+def addd(a, b):
+    return a + b
+
+def multi(a, b):
+    return a*b
